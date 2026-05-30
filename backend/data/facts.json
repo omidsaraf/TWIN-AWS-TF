@@ -1,0 +1,21 @@
+{
+    "full_name": "OMID",
+    "name": "SM",
+    "current_role": "Solution Designer",
+    "location": "Sydney",
+    "email": "your.email@example.com",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "specialties": [
+      "Solution Design (Data/AI)",
+      "Data and AI Engineer",
+      "Certified Azure, Databricks, AWS Engineer/Architect"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Master",
+        "institution": "CQU",
+        "year": "2017"
+      }
+    ]
+  }

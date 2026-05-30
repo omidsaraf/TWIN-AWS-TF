@@ -1,0 +1,16 @@
+# fastapi
+# uvicorn
+# anthropic
+# python-dotenv
+# python-multipart
+# boto3
+# pypdf
+# mangum
+
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+boto3
+pypdf
+mangum
