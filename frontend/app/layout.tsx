@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Digital Twin",
+  title: "OMID's Digital Twin",
   description: "AI Career representing OMID SM",
 };
 
